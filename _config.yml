@@ -2,11 +2,11 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Zrlong的笔记
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://feilalala.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, write:
@@ -44,7 +44,7 @@ permalink: posts/:title/
 google_analytics: ""
 
 # Language. For example, if you write in Japanese, use "ja"
-lang: "en"
+lang: "zh"
 
 # How many posts are visible on the home page without clicking "View More"
 num_posts_visible_initially: 5
