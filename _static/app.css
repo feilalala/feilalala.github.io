@@ -6,9 +6,11 @@
 html {
   font-size: 16px;
   line-height: 1.6;
-  font-family: Georgia, Cambria, "Times New Roman", Times, "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: Georgia, "Times New Roman",
+             "Microsoft YaHei", "微软雅黑",
+             STXihei, "华文细黑",
+             serif;
 }
-
 html[lang="ja"] {
   line-height: 1.9;
 }
