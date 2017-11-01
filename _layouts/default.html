@@ -106,7 +106,7 @@
               <li class="mt0 mb4">
                 <span class="silver db mb1">{{ post.date | date: site.date_format }}</span>
                 <h3 class="ma0">
-                  <a class=" no-underline" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  <a class=" no-underline" href="{{ post.url | relative_url |prepend: site.github.url  }}">{{ post.title | escape }}</a>
                 </h3>
               </li>
             {% endfor %}
