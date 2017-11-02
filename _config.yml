@@ -12,7 +12,7 @@ url: "https://feilalala.github.io"
 # Then write "/bar/". Otherwise, write:
 #
 # baseurl: nil
-baseurl: nil
+baseurl: /
 
 # Twitter IDs
 twitter:
